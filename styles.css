@@ -11,31 +11,6 @@
   --festive-green: #4d8758;
   --font-body: "DM Sans", sans-serif;
   --font-mono: "DM Mono", monospace;
-  --shadow:0 8px 20px rgba(0,0,0,0.25);
-  ---radius:12px;
-  ---transition:0.3s ease;
-}
-.rhino-logo {
-  position:relative
-  min-height:100vh;
-  <display :flex>
-Selector Specificity: (0, 1, 1)
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
-  overflow:hidden;
-  isolation:isolate;
-  background:
-    radial-gradient(
-      ellipse at center,
-      #45352a 0%,
-      #211411 48%,
-      #080d15 100%,
-    );
-    color:#f4ecdf;
-    text-align:center;
-
-
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 86px; }
